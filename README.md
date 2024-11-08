@@ -49,7 +49,7 @@ Hosted on an **Azure VM** configured with **Ubuntu 22.04 LTS**, the project show
     ```
 
 ## Web Interface with Flask
-A Flask application (`app.py`) was created to provide a web interface, allowing users to enter passwords and receive feedback on their strength. The application leverages Flask's templating to render a user-friendly HTML page.
+A Flask [application](https://github.com/marvioncriddle/pw-checker-app/blob/main/app.py) (`app.py`) was created to provide a web interface, allowing users to enter passwords and receive feedback on their strength. The application leverages Flask's templating to render a user-friendly HTML page.
 
 - **Sample Code for Flask Route**:
     ```python
