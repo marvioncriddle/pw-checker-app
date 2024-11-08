@@ -21,7 +21,7 @@ Hosted on an **Azure VM** configured with **Ubuntu 22.04 LTS**, the project show
 
 ![pwck1](https://i.imgur.com/zU7XEPl.jpg)
 
-2. **SSH into the VM and Configure Environment**:
+2. **SSH (via PowerShell) into the VM and Configure Environment**:
     - Updated the system and installed Python 3.11, Pip, and Git:
       ```bash
       sudo apt update
@@ -35,6 +35,8 @@ Hosted on an **Azure VM** configured with **Ubuntu 22.04 LTS**, the project show
 3. **Set Up GitHub Repository**:
     - Created a GitHub repository and cloned it onto the VM.
     - Configured Git for version control and generated SSH keys to connect securely with GitHub.
+
+![githubsshkey](https://i.imgur.com/kOyNKsx.jpg)
 
 4. **Password Checker Script**: Developed a password checker script (`pwcheck.py`) to evaluate password strength through both basic regex rules and zxcvbn's advanced checking capabilities. Here’s a sample of the basic validation function:
     ```python
