@@ -64,21 +64,22 @@ The HTML interface, styled with simple forms, is located in the `templates/` fol
 - **Testing**: After starting the Flask app on the VM, several passwords were tested to verify the application’s validation logic. 
 - **Deployment**: The application is deployed on the VM and can be accessed publicly via the VM’s IP and port 5000.
 -------------------
-1.  **Test Password**:  11111  
+1.  **11111**
 
 <img src="https://i.imgur.com/zALVfVr.jpg" alt="pass1" width="400"/>
 
-2.  **Test Password**:  Mushroom156  
+2.  **Mushroom156**
 
 <img src="https://i.imgur.com/JPARS01.jpg" alt="pass2" width="400"/>
 
-3.  **Test Password**:  jkjflkajdkdasfsdfdfd1242%#  
+3.  **jkjflkajdkdasfsdfdfd1242%#**
 
 <img src="https://i.imgur.com/cwa0NYZ.jpg" alt="pass3" width="400"/>
 
-4.  **Test Password**:  fg@43BDDvj45242%$@^22kjD3  
+4.  **fg@43BDDvj45242%$@^22kjD3**
 
 <img src="https://i.imgur.com/OxKdn3p.jpg" alt="pass4" width="400"/>
+
 -------------------
 
 ## GitHub and Version Control
