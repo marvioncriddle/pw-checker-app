@@ -64,7 +64,7 @@ The HTML interface, styled with simple forms, is located in the `templates/` fol
 - **Testing**: After starting the Flask app on the VM, several passwords were tested to verify the application’s validation logic. 
 - **Deployment**: The application is deployed on the VM and can be accessed publicly via the VM’s IP and port 5000.
 
-Password 1:  11111
+Sample Password(1):  11111
 
 ![pass1](https://i.imgur.com/E3qVSfD.jpg)
 
