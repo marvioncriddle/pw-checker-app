@@ -82,17 +82,18 @@ The HTML interface, styled with simple forms, is located in the `templates/` fol
 
 -------------------
 
-## GitHub and Version Control
-All changes were tracked using Git. Commits were made at each major development phase, from environment setup to final testing. 
-
 ## Key Takeaways
-This project demonstrates my proficiency in:
 - **Cloud Configuration**: Setting up and managing VMs on Azure for hosting web applications.
 - **Security Validation**: Building applications with security-first considerations, especially for user data.
-- **Flask Web Development**: Using Flask to develop web applications and deploy them on cloud infrastructure.
+- **Flask Web Application**: Using Flask to develop web applications and deploy them on cloud infrastructure.
+- **Python and HTML Development**: Leveraging Python for backend logic and HTML for frontend structure.
 - **Version Control**: Utilizing Git and GitHub for efficient source control and collaboration.
 
 ---
 
-By building and deploying this project, I have further honed my skills as a Security Engineer in creating secure and accessible applications. This project reflects my ability to combine security standards with practical web development and cloud deployment practices.
+## Conclusion
+
+This project provided hands-on experience in securely deploying a simple web application on Azure using Flask and Ubuntu. It highlights real-world skills like setting up virtual machines, managing SSH access, enforcing strong password standards, and coding in Python.  This project serves as a practical way to teach security awareness, emphasizing key practices like strong password policies, SSH key management, and cloud-based security configurations. 
+
+
 
