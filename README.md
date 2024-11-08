@@ -83,11 +83,10 @@ The HTML interface, styled with simple forms, is located in the `templates/` fol
 -------------------
 
 ## Key Takeaways
-- **Cloud Configuration**: Setting up and managing VMs on Azure for hosting web applications.
-- **Security Validation**: Building applications with security-first considerations, especially for user data.
-- **Flask Web Application**: Using Flask to develop web applications and deploy them on cloud infrastructure.
-- **Python and HTML Development**: Leveraging Python for backend logic and HTML for frontend structure.
-- **Version Control**: Utilizing Git and GitHub for efficient source control and collaboration.
+- **Cloud Configuration**: Setting up and managing VMs on Azure for securely hosting web applications.
+- **Security Validation**: Building applications with security-first considerations for user data, including adherence to **NIST password guidelines** for strength and complexity.
+- **Flask Web Application**: Using Flask to develop and deploy a web application on cloud infrastructure.
+- **Python and HTML Development**: Leveraging Python for backend logic and HTML for frontend structure, ensuring a smooth and secure user experience.
 
 ---
 
