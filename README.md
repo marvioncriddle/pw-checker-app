@@ -61,8 +61,11 @@ A Flask [application](https://github.com/marvioncriddle/pw-checker-app/blob/main
 The HTML interface, styled with simple forms, is located in the `templates/` folder. This web-based interaction was tested by running the Flask application, accessible at `http://<vm-public-ip>:5000`.
 
 ## Testing and Deployment
-- **Testing**: After starting the Flask app on the VM, several passwords were tested to verify the application’s validation logic. Screenshots of different password checks can be found in the repository’s `/screenshots` folder.
+- **Testing**: After starting the Flask app on the VM, several passwords were tested to verify the application’s validation logic. 
 - **Deployment**: The application is deployed on the VM and can be accessed publicly via the VM’s IP and port 5000.
+
+Password 1:  11111
+![pass1](https://i.imgur.com/E3qVSfD.jpg)
 
 ## GitHub and Version Control
 All changes were tracked using Git. Commits were made at each major development phase, from environment setup to final testing. 
