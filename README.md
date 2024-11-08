@@ -38,7 +38,7 @@ Hosted on an **Azure VM** configured with **Ubuntu 22.04 LTS**, the project show
 
 ![githubsshkey](https://i.imgur.com/kOyNKsx.jpg)
 
-4. **Password Checker Script**: Developed a password checker script (`pwcheck.py`) to evaluate password strength through both basic regex rules and zxcvbn's advanced checking capabilities. Here’s a sample of the basic validation function:
+4. [**Password Checker Script**](https://github.com/marvioncriddle/pw-checker-app/blob/main/pwcheck.py): Developed a password checker script (`pwcheck.py`) to evaluate password strength through both basic regex rules and zxcvbn's advanced checking capabilities. Here’s a sample of the basic validation function:
     ```python
     def regex_check(password):
         if len(password) < 24:
