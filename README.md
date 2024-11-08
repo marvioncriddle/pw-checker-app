@@ -61,7 +61,7 @@ The HTML interface, styled with simple forms, is located in the `templates/` fol
 - **Deployment**: The application is deployed on the VM and can be accessed publicly via the VM’s IP and port 5000.
 
 ## GitHub and Version Control
-All changes were tracked using Git. Commits were made at each major development phase, from environment setup to final testing. The repository can be found here: [Password Checker Repository](https://github.com/marvioncriddle/pw-checker-app).
+All changes were tracked using Git. Commits were made at each major development phase, from environment setup to final testing. 
 
 ## Key Takeaways
 This project demonstrates my proficiency in:
@@ -69,8 +69,6 @@ This project demonstrates my proficiency in:
 - **Security Validation**: Building applications with security-first considerations, especially for user data.
 - **Flask Web Development**: Using Flask to develop web applications and deploy them on cloud infrastructure.
 - **Version Control**: Utilizing Git and GitHub for efficient source control and collaboration.
-
-For detailed code, screenshots, and documentation, please visit the [project repository on GitHub](https://github.com/marvioncriddle/pw-checker-app).
 
 ---
 
