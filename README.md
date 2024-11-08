@@ -1,6 +1,3 @@
-# pw-checker-app
-Password Checker application in Linux VM
-
 # Python Password Strength Checker
 
 ## Project Overview
@@ -33,7 +30,7 @@ Hosted on an **Azure VM** configured with **Ubuntu 22.04 LTS**, the project show
       ```
 
 3. **Set Up GitHub Repository**:
-    - Created a GitHub repository ([repository link here](https://github.com/marvioncriddle/pw-checker-app)) and cloned it onto the VM.
+    - Created a GitHub repository and cloned it onto the VM.
     - Configured Git for version control and generated SSH keys to connect securely with GitHub.
 
 4. **Password Checker Script**: Developed a password checker script (`pwcheck.py`) to evaluate password strength through both basic regex rules and zxcvbn's advanced checking capabilities. Here’s a sample of the basic validation function:
