@@ -19,7 +19,7 @@ Hosted on an **Azure VM** configured with **Ubuntu 22.04 LTS**, the project show
     - Opened **Port 5000** to allow HTTP access for the web application.
     - **SSH Key Authentication**: Configured SSH keys during Azure VM creation to secure remote access, ensuring only authorized users could access the VM.
 
-![pwck1](https://i.imgur.com/anXKMPM.jpg)
+![pwck1](https://i.imgur.com/zU7XEPl.jpg)
 
 2. **SSH into the VM and Configure Environment**:
     - Updated the system and installed Python 3.11, Pip, and Git:
