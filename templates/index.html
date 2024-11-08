@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Password Strength Checker</title>
+</head>
+<body>
+    <h1>Password Strength Checker</h1>
+    <form method="POST">
+        <input type="password" name="password" placeholder="Enter your password" required>
+        <button type="submit">Check Strength</button>
+    </form>
+
+    {% if result %}
+    <h2>Results</h2>
+    {% if result.regex_result %}
+        <p>Basic Check: {{ result['regex_result'] }}</p>
+    {% endif %}
+
+    <p>Strength Score: {{ result['strength_score'] }}</p>
+    <p>Advanced Check:</p>
+    <ul>
+        {% if result['feedback']['suggestions'] %}
+            {% for suggestion in result['feedback']['suggestions'] %}
+                <li>{{ suggestion }}</li>
+            {% endfor %}
+        {% else %}
+            <li>Password meets advanced requirements.</li>
+        {% endif %}
+    </ul>
+    {% endif %}
+</body>
+</html>
