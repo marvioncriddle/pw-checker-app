@@ -1,7 +1,7 @@
 # pw-checker-app
 Password Checker application in Linux VM
 
-# Password Strength Checker Project
+# Python Password Strength Checker
 
 ## Project Overview
 This project is a **Password Strength Checker** web application, designed to assess password security by performing both basic and advanced validation. The project utilizes **Python, Flask, and zxcvbn** (an open-source library for password strength estimation) to validate passwords based on common security rules and measure the password's resistance against potential attacks. 
